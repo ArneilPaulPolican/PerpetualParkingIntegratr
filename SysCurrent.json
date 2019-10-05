@@ -1,0 +1,8 @@
+{
+  "POSConnectionString": "Data Source=localhost ;Initial Catalog=pos13 ;User ID= sa;Password=innosoft;",
+  "ParkingConnectionString": "Driver={MySQL ODBC 5.1 Driver};Server=localhost;Database=tenet;uid=root;pwd=1234",
+  "DefaultItemCode": "000000",
+  "DefaultCustomerCode": "Walk In",
+  "LastExportChargeIdNumber": 406846,
+  "UseLastExportChargeIdNumber": false
+}
